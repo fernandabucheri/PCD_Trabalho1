@@ -7,7 +7,7 @@
 ## Como executar
 
 #### Versões em Java:
-Basta compilar o arquivo e executar dentro de uma plataforma Java(JNV).
+Basta compilar o arquivo e executar dentro de uma plataforma Java(JVM).
 
 #### Versões OPENMP em C:
 Compilar e executar o arquivo utilizando o gnu para C.
