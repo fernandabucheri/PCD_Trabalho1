@@ -1,8 +1,8 @@
-# PCD_Trabalho1
+# Game of Life e Highlife
 
 ###### Sobre:
 
-  O projeto foi feito seguindo regras determinadas pelos professores para execução do jogo da vida e sua variação, HighLife, que consiste em analisar dentro de uma determinada posição numa matriz se as células nas posições ao redor satisfazem uma condição imposta. Assim o jogo se sucede conferindo as condições em diferentes posições ate que não reste mais célula com status de vida.*
+  O projeto trata da execução do Jogo da Vida e de sua variação, HighLife. O objetivo é analisar, dentro de uma determinada posição em uma matriz, se as células nas posições ao redor satisfazem uma condição imposta. Assim, o jogo prossegue verificando as condições em diferentes posições até que não reste mais nenhuma célula com o status de vida.
 
 ## Como executar
 
